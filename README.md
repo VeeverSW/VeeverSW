@@ -1,4 +1,6 @@
+<div align="center">
 <img src="https://count.getloli.com/@VeeverSW?name=VeeverSW&theme=capoo-2&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt=":name" />
+</div>
 
 <h1 align="center">Hi there 👋, I'm Veever</h1>
 
